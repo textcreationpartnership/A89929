@@ -1,0 +1,443 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Shufling, cutting, and dealing, in a game at pickquet: being acted from the year, 1653. to 1658. By O.P. and others; with great applause.</title>
+            <author>Neville, Henry, 1620-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89929</idno>
+            <idno type="STC">Wing N517</idno>
+            <idno type="STC">Thomason E983_9</idno>
+            <idno type="STC">ESTC R203044</idno>
+            <idno type="EEBO-CITATION">99863138</idno>
+            <idno type="PROQUEST">99863138</idno>
+            <idno type="VID">168573</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89929)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168573)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E983[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Shufling, cutting, and dealing, in a game at pickquet: being acted from the year, 1653. to 1658. By O.P. and others; with great applause.</title>
+                  <author>Neville, Henry, 1620-1694.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>O.P. and others = Henry Neville.</note>
+                  <note>A political satire in form of a play.</note>
+                  <note>Annotation on Thomason copy: "May 16th"; "May. 16.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168573:1" rendition="simple:additions"/>
+            <p>
+               <hi>Shufling, Cutting,</hi> and <hi>Dealing,</hi> IN A Game at Pickquet: BEING Acted from the Year, 1653. to 1658. BY <hi>O. P.</hi> And others; With great Applauſe.</p>
+            <q>Tempora mutantur et nos —</q>
+            <p>Printed in the Year, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168573:2"/>
+            <pb n="3" facs="tcp:168573:2"/>
+            <head>
+               <hi>Shufling, Cutting,</hi> and <hi>Dealing,</hi> In a GAME at Pickquet.</head>
+            <sp>
+               <speaker>Oliver P.</speaker>
+               <p>I Am like to have a good beginning on't: I have thrown out all my beſt Cards, and got none but a Company of Wretched Ones; ſo I may very well be capetted.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ambert.</hi>
+               </speaker>
+               <p>— Now you have a New Pack (my Lord) I am content to play; but you knew every Card of the Old ones, and could make your Game as you liſted.</p>
+            </sp>
+            <sp>
+               <speaker>Laurence.</speaker>
+               <p>I took a few, yet they make me a good Game; for I left all the li<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>le Ones behind me.</p>
+            </sp>
+            <sp>
+               <speaker>Fleetwood.</speaker>
+               <p>If your Highneſs had thoſe my Lord <hi>Laurence</hi> left, you would have a better Game then you have, I could wiſh you would look upon them: But yet I know you can hardly tell what to play well. I am for the Little Ones, if there be enough of them; for two <hi>Quint Minors will</hi> win the Game, before you come to reckon you are 14 by Knaves.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>s.</hi>
+               </speaker>
+               <p>It is fit you ſhould play at ſome common Game, where all the ſmal Cards are in, and where the Ace goeth but for one. I was too long at the ſport, and left it, becauſe I could make nothing of it. But here whoſoever gets one Card, is like to make a good hand: I have got a good Tearſe already.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſgrave.</hi>
+               </speaker>
+               <p>I was ſomewhat ſcrupulous, whether Play was lawful, or nor; and ſo ſate out the laſt Game, which had like to have undone me: for the future, I ſhall play what Game ſoever your Highneſs pleaſeth, e<g ref="char:EOLhyphen"/>ſpecially now I ſee you play ſo well when you looſe.</p>
+            </sp>
+            <pb n="4" facs="tcp:168573:3"/>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſle.</hi>
+               </speaker>
+               <p>If I go into <hi>France,</hi> I muſt practiſe another Game; but do what I can, I ſhall be over-reacht by <hi>hoc Mazarine.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Disborow.</speaker>
+               <p>I am nothing but a Ruff, yet I ſhall do well: I have got a Card of a right Suit, and hope to have a better Game, if the Cards were in any other hands then your Lordſhips.</p>
+            </sp>
+            <sp>
+               <speaker>Skippon.</speaker>
+               <p>I ſit here and hold the Cards, but know no more how to play then a Poſt.</p>
+            </sp>
+            <sp>
+               <speaker>Rouſe.</speaker>
+               <p>I am more diligent at this Game, then ever I was at any; but I got more the laſt Game, when I plaid Cent: for I had a hundred, and all made: All that I deſire, is to ſave my ſelf, and help my Kindred to ſomething, by betting on my ſide, while my Luck laſts.</p>
+            </sp>
+            <sp>
+               <speaker>Jones.</speaker>
+               <p>I muſt needs loſe; for I have thrown out the Card that made me a good Game.</p>
+            </sp>
+            <sp>
+               <speaker>Ouſeley.</speaker>
+               <p>A pox on't, I left <hi>Pickadilly,</hi> and the Three Kings, to play here; and I ſhall get nothing all the days of my life.</p>
+            </sp>
+            <sp>
+               <speaker>Aſhley-Cooper.</speaker>
+               <p>I was Pickquet at White-Hall, and thought to fave my ſelf amongſt the Cavalier-Poſts; but I doubt I ſhall be deceived.</p>
+            </sp>
+            <sp>
+               <speaker>Pickering.</speaker>
+               <p>I had rather play at another Game, where more may play: But I thank the Lord, I can frame my ſelf to any Sport, ſo my Lord <hi>P.</hi> be one at it.</p>
+            </sp>
+            <sp>
+               <speaker>Strickland.</speaker>
+               <p>You play not here as they do in <hi>Holland,</hi> where I learnt this Game: for you make <hi>lifting</hi> here; and there they deal by turns.</p>
+            </sp>
+            <sp>
+               <speaker>Major.</speaker>
+               <p>All that I am, I had in my Riſe; I was the pittifulleſt Game in the World before.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>denham.</hi>
+               </speaker>
+               <p>I am pretty well, though I changed my Suit; I went in all one, and had another as good in the Stock.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ntague.</hi>
+               </speaker>
+               <p>You make me play at a Game I never knew in my life before; I muſt needs loſe.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ke.</hi>
+               </speaker>
+               <p>I ſhall be a kind of a ſtander-by this time, and ſo ſhall have time enough to teach you the Game againſt the next, when you may play by your ſelf.</p>
+            </sp>
+            <pb n="5" facs="tcp:168573:3"/>
+            <sp>
+               <speaker>Thurlee.</speaker>
+               <p>My Lord, It will not be ſo well for me to play: I'le ſtand behind your Chair, and make and ſhuffle with what you are to play the next Game.</p>
+            </sp>
+            <sp>
+               <speaker>St. John.</speaker>
+               <p>My Lord, I ſhall not play neither; but I will go your halfes, ſo you keep my counſel.</p>
+            </sp>
+            <sp>
+               <speaker>Peerpoint.</speaker>
+               <p>You play ſo raſhly, I will not bet a farthing on your head.</p>
+            </sp>
+            <sp>
+               <speaker>Salloway.</speaker>
+               <p>— I am but a ſtander-by; yet I obſerve the ſmall Cards that are left, and not plaid with, are all very clean; but the reſt of the Pack are filthy foul already.</p>
+            </sp>
+            <sp>
+               <speaker>Bradſhaw.</speaker>
+               <p>—I diſpatcht out one King, and went for another; but have miſſed him: yet he hath not a Card of his Suit with him; ſo I ſhall ſnap him, when he comes into my hands.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Haſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erigg.</hi>
+               </speaker>
+               <p>—May we play not Levet-coyl? I have not patience to ſtay till ano<g ref="char:EOLhyphen"/>ther Match be made; and I had as leive be hang'd as ſit out.</p>
+            </sp>
+            <sp>
+               <speaker>Nevel.</speaker>
+               <p>— I will not play for a farthing; beſides that, I love not the Game, I am ſo dun'd with the Spleen, I ſhould think on ſomething elſe all the while I were a playing; and take in all the ſmall Cards: for I am all day dreaming of another Game.</p>
+            </sp>
+            <sp>
+               <speaker>Waller.</speaker>
+               <p>My Lord, you have hang'd <hi>my King,</hi> and I have no other way then to play into your hands.</p>
+            </sp>
+            <sp>
+               <speaker>Whitlock:</speaker>
+               <p>I ſhall be coment to play at any Game, but ſhall be unwilling to play for a dead horſe: yet I care not if I keep <hi>Stakes.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Knightly.</speaker>
+               <p>My Lord, give me leave to ſpeak againſt your Game, that ſo I may be thought not to bett; and then I ſhall be able to give ſuch ad<g ref="char:EOLhyphen"/>vice, as I may help you to play.</p>
+            </sp>
+            <sp>
+               <speaker>Roberts.</speaker>
+               <p>I have the luck on't; I win as well at this Game, as at the laſt when I play'd at <hi>Loadam:</hi> I had all the ſmall Cards, and now I have all the great ones.</p>
+            </sp>
+            <sp>
+               <speaker>
+                  <hi>Gerra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</hi>
+               </speaker>
+               <p>I do not like the Game ſo well, as to leave the match I have made for my ſelf; yet I do not care if I venture a little on your hand, and try if I can get a Stock to ſet up my youn<g ref="char:EOLhyphen"/>geſt Son for a Gameſter.</p>
+            </sp>
+            <pb n="6" facs="tcp:168573:4"/>
+            <sp>
+               <speaker>Bernard.</speaker>
+               <p>May I not talk as much as I will in your play, ſo long as I am reſol<g ref="char:EOLhyphen"/>ved never to bett or play with you at this Game for a groat.</p>
+            </sp>
+            <sp>
+               <speaker>Vane.</speaker>
+               <p>One had better ſometimes play with a good Gameſter then a bungler; for one knowes not where to have him: If <hi>Cromwell</hi> had diſcarded as he ought to have done, I had won my ſtake at it: as it is, I ſhall ſave my ſelf; which I fear he will hardly do, though he mingles the the Cards well when he deals himſelf, and hath excellent luck in cutting when another deals.</p>
+            </sp>
+            <sp>
+               <speaker>Rich.</speaker>
+               <p>I play a thouſand times better now I have a bad Game, then when I had a good one.</p>
+            </sp>
+            <sp>
+               <speaker>Harriſon.</speaker>
+               <p>I playd the fool, and went in for a <hi>Fifth King,</hi> when there was but four in the Stock.</p>
+            </sp>
+            <sp>
+               <speaker>Lawſon.</speaker>
+               <p>My Lord, the Game was not dealt you, <hi>you took it,</hi> I throw up my Cards.</p>
+            </sp>
+            <sp>
+               <speaker>Streater.</speaker>
+               <p>My Lord, If you would Curſe and Swear ſoundly, the Game would become you better then it doth, in regaed you pretend ſo much to Re<g ref="char:EOLhyphen"/>ligion; I ſhall diſturb you in the Game if I ſtand by: I ſee you play in the dark, therefore I muſt take my leave of your Lord<g ref="char:EOLhyphen"/>ſhip, and bid you good night.</p>
+            </sp>
+            <sp>
+               <speaker>Noell.</speaker>
+               <p>I make my fortune by lending the Gameſters money.</p>
+            </sp>
+            <sp>
+               <speaker>Young <hi>Trever.</hi>
+               </speaker>
+               <p>Shall not I play? my Lord Protector hath given me a Stock, and I'le pack the Cards with all the Cavalier-Gameſters in the Town.</p>
+            </sp>
+            <sp>
+               <speaker>Sir <hi>John Trever.</hi>
+               </speaker>
+               <p>Well ſaid <hi>Jack,</hi> Thou art none of my ſon if thou beeſt not in all Games, and canſt carry a Trump in thy Pocket.</p>
+            </sp>
+            <sp>
+               <speaker>Harvey.</speaker>
+               <p>They caught me playing falſe, and would let me play no longer, though I was on my Lord Protector's ſide.</p>
+            </sp>
+            <sp>
+               <speaker>Tichborn.</speaker>
+               <p>I had reaſon to deſire to play at <hi>Council Pickquet,</hi> ſince I am like <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> loſe ſo much by another man's ill play.</p>
+            </sp>
+            <sp>
+               <speaker>Newdigate.</speaker>
+               <p>I have loſt by play, but I got by leaving off.</p>
+            </sp>
+            <pb n="7" facs="tcp:168573:4"/>
+            <sp>
+               <speaker>Chute.</speaker>
+               <p>There is ſuch Cheating, that I'le play no longer.</p>
+            </sp>
+            <sp>
+               <speaker>Pureſoy.</speaker>
+               <p>I'le play at ſmall Game, rather then ſit out; for I was never ſet at work.</p>
+            </sp>
+            <sp>
+               <speaker>Pride,</speaker>
+               <p>
+                  <hi>Baxter</hi> and I am at the Old Fooliſh Chriſtmas Game with <hi>Honours.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Monk.</speaker>
+               <p>My Lord, when you came to play, your Stock was none of the greateſt; but ſince I ſee your good fortune, I am reſolved ſtill to play as you do: eſpecially, ſince you have made me Maſter of one of your great Play-Houſes: but above all th ngs, if you can keep the Bone in your hand, the Doggs will follow you; if you can keep the Treaſure, the Gameſters will all Crowd to you.</p>
+            </sp>
+            <sp>
+               <speaker>Diſsenting Army-Members.</speaker>
+               <p>My Lord, when you began the Game, you promis'd us fair play above-board; but ſince we ſee you begin to Juggle, we will play no longer.</p>
+            </sp>
+            <sp>
+               <speaker>Exchequer.</speaker>
+               <p>I muſt win at laſt, Yet at preſent I have ill-luck; for I have three Knaves, and had caſt out the fourth.</p>
+            </sp>
+            <sp>
+               <speaker>Upper-Bench.</speaker>
+               <p>Sure you are no better then a Cheat; for I threw out one of them, and you have taken him up into your hands.</p>
+            </sp>
+            <sp>
+               <speaker>Common-Pleas.</speaker>
+               <p>You ſerved me the very ſame trick the laſt Term, and took in one of them whom I diſcarded; but ye had beſt leave your cheat<g ref="char:EOLhyphen"/>ing and wrangling all of Ye, left Ye be found what Ye are, and be forbid to keep a Chriſtmas here any more, and then we be forced to ſet up a <hi>mis-rule</hi> in the Country, where there are but ſmall Games, and the <hi>Box will be poorly paid.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Chancery and Dutchy.</speaker>
+               <p>I am blanek; if it had not been for the Queen, I had caſt out a Knave, which now proves the be<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of my Game.</p>
+            </sp>
+            <sp>
+               <speaker>Truſtees.</speaker>
+               <p>I have taken more then I ſhould; I muſt reckon nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Commiſs. for Exciſe and Cuſt.</speaker>
+               <p>Gentl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>men, pay the Box.</p>
+            </sp>
+            <sp>
+               <speaker>Presbyterian.</speaker>
+               <p>I loſt the laſt Game for want of a King; and now have got one that doth me no good in the world: I had a good hand, but I playd the Fool and threw it out, ſo that all my help depends on one Card.</p>
+            </sp>
+            <pb n="8" facs="tcp:168573:5"/>
+            <sp>
+               <speaker>Independent.</speaker>
+               <p>I have none but ſmall Cards, and they of <hi>ſeveral Suites,</hi> ſo that I ſhall make little of it this bout.</p>
+            </sp>
+            <sp>
+               <speaker>National Miniſter.</speaker>
+               <p>I went in for thoſe Cards the Biſhops and Deans parted with the laſt Game; but, though I miſt them, Yet if my <hi>Tent<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> be good, I ſhall make ſhift till another Dealing.</p>
+            </sp>
+            <sp>
+               <speaker>Divines.</speaker>
+               <p>I was Pickquet the laſt, but am now repick<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</p>
+            </sp>
+            <sp>
+               <speaker>Papiſt.</speaker>
+               <p>If you all complain, I hope I ſhall win at laſt.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="epilogue">
+            <head>Epilogue.</head>
+            <p>IT is to be noted, that the Gentle<g ref="char:EOLhyphen"/>men that have been eminent in this laſt Dealing of the Cards, playd very fair in the former <hi>Game</hi> here deſcri<g ref="char:EOLhyphen"/>bed, With a</p>
+            <closer>
+               <signed>
+                  <hi>Plaudite.</hi> — ſic tranſit Gloria Mundi.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
